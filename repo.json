@@ -1,0 +1,16 @@
+[{
+	"Name": "mdfy",
+	"Description": "A micro editor plugin that converts a URL under the cursor into a Markdown link.",
+	"Author": "Aki Kareha",
+	"Tags": ["markdown", "url"],
+	"Website": "https://github.com/akikareha/micro-mdfy-plugin",
+	"Versions": [
+		{
+			"Version": "0.0.0",
+			"Url": "https://github.com/akikareha/micro-mdfy-plugin/archive/v0.0.0.zip",
+			"Require": {
+				"micro": ">=2.0.0"
+			}
+		}
+	]
+}]
