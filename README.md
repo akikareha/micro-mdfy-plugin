@@ -1,7 +1,8 @@
 # MDfy (Markdown-ize) Plugin for Micro
 
-A [micro](https://micro-editor.github.io/) editor plugin that converts a URL
-under the cursor into a Markdown link.
+**MDfy (Markdown-ize)** is a plugin for the
+[micro](https://micro-editor.github.io/) text editor that converts a URL under
+the cursor into a Markdown link.
 
 `mdfy` command transforms a URL under the cursor into Markdown link format:
 
